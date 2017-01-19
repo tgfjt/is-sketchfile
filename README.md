@@ -2,6 +2,9 @@
 
 Check if file is a [Sketch](https://www.sketchapp.com/) file.
 
+[![Build Status](https://travis-ci.org/tgfjt/is-sketchfile.svg?branch=master)](https://travis-ci.org/tgfjt/is-sketchfile)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+
 ## Install
 
 ```

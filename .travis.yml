@@ -4,4 +4,4 @@ node_js:
 sudo: false
 language: node_js
 script: "npm test"
-after_success: "npm i -g codecov && npm run coverage && codecov"
+after_success: "npm i -g codecov && npm run report-coverage && codecov"
