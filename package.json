@@ -1,5 +1,5 @@
 {
-  "name": "@tgfjt/is-sketchfile",
+  "name": "is-sketchfile",
   "version": "1.0.0",
   "description": "Check if file is a Sketch file",
   "main": "index.js",
