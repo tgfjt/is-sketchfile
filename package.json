@@ -14,6 +14,12 @@
   ],
   "author": "tgfjt",
   "license": "ISC",
+  "homepage": "https://github.com/tgfjt/is-sketchfile",
+  "bugs": "https://github.com/tgfjt/is-sketchfile/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tgfjt/is-sketchfile.git"
+  },
   "dependencies": {
     "sqlite3": "^3.1.8"
   },
